@@ -1,7 +1,8 @@
 # react-ant
 react project with antd design
 
-# use prettier 
+
+# run eslint with prettier 
 ```
-$ npx prettier --single-quote --trailing-comma es5 --write "{app,__{tests,mocks}__}/**/*.js"
+$ npm run lint:fix
 ```
